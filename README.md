@@ -5,11 +5,11 @@
 **It's your turn, click on a button below the board!**
 
 <!-- 2048GameBoard -->
-<img src="https://github.com/leogopal/leogopal/blob/main/Data/gameboard.png" width="500"/>
+<img src="https://github.com/leogopal/readme-2048/blob/main/Data/gameboard.png" width="500"/>
 <!-- 2048GameBoard -->
 
 <!-- 2048GameActions -->
-<a href="https://github.com/leogopal/leogopal/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideUp.png"/> </a> <a href="https://github.com/leogopal/leogopal/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideDown.png"/> </a> <a href="https://github.com/leogopal/leogopal/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideLeft.png"/> </a> <a href="https://github.com/leogopal/leogopal/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideRight.png"/> </a>
+<a href="https://github.com/leogopal/readme-2048/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideUp.png"/> </a> <a href="https://github.com/leogopal/readme-2048/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideDown.png"/> </a> <a href="https://github.com/leogopal/readme-2048/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideLeft.png"/> </a> <a href="https://github.com/leogopal/readme-2048/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideRight.png"/> </a>
 <!-- 2048GameActions -->
 
 ## Leaderboard
