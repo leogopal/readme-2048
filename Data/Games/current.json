@@ -1,22 +1,22 @@
 {
     "grid": [
         [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
-            null
-        ],
-        [
             2,
             null,
             null,
             4
+        ],
+        [
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            2,
+            null,
+            null
         ],
         [
             null,
@@ -29,6 +29,7 @@
     "bestScore": 0,
     "moves": [
         "@@example",
+        "@leogopal",
         "@leogopal"
     ]
 }

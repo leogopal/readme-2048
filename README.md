@@ -17,7 +17,7 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@leogopal](https://github.com/leogopal) | 2 |
+| [@leogopal](https://github.com/leogopal) | 3 |
 <!-- 2048Ranking -->
 
 Do you want to make your own? Check out the [leogopal's readme 2048 template](https://github.com/leogopal/Readme-2048)!
