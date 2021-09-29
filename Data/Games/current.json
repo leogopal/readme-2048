@@ -16,7 +16,7 @@
             2,
             null,
             null,
-            2
+            4
         ],
         [
             null,
@@ -25,9 +25,10 @@
             null
         ]
     ],
-    "score": 0,
+    "score": 4,
     "bestScore": 0,
     "moves": [
-        "@@example"
+        "@@example",
+        "@leogopal"
     ]
 }
